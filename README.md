@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Criser2013/Criser2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cristian Obando
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer science student with experience building web applications, machine learning models and data analysis. I like to learn topics related with AI and web technologies.
+
+## Technologies
+
+<div align="center">
+
+### Programming languages
+<img src="https://skillicons.dev/icons?i=py,js,java"/>
+
+### Frontend libraries
+<img src="https://skillicons.dev/icons?i=react,vite,materialui"/>
+
+### Backend frameworks
+<img src="https://skillicons.dev/icons?i=express,fastapi,flask,django" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+
+### Machine learning
+<img src="https://skillicons.dev/icons?i=sklearn" />
+
+### DevOps
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git"/>
+
+### Cloud providers
+<img src="https://skillicons.dev/icons?i=azure,gcp"/>
+
+### Testing
+<img src="https://skillicons.dev/icons?i=jest"/>
+
+</div>
