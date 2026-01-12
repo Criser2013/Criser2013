@@ -5,6 +5,7 @@
 </div>
 
 Computer science student with experience building web applications, machine learning models and data analysis. I like to learn topics related with AI and web technologies.
+ Check out my [portfolio]([https://www.linkedin.com/in/cristian-david-obando-gutierrez-4074043a3/](https://portafolio-eight-inky-71.vercel.app/)).
 
 ## Technologies
 
