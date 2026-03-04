@@ -24,7 +24,7 @@ Computer science student with experience building web applications, machine lear
 <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
 
 ### Machine learning
-<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
 
 ### DevOps
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git"/>
