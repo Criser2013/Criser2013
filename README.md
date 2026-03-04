@@ -12,7 +12,7 @@ Computer science student with experience building web applications, machine lear
 <div align="center">
 
 ### Programming languages
-<img src="https://skillicons.dev/icons?i=py,js,java"/>
+<img src="https://skillicons.dev/icons?i=py,js,java,r"/>
 
 ### Frontend libraries
 <img src="https://skillicons.dev/icons?i=react,vite,materialui"/>
