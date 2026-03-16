@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cristian Obando
+# Cristian O.
 
 </div>
 
