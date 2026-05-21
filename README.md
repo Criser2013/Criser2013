@@ -17,7 +17,7 @@ I specialize in building intelligent applications—designing robust backend sys
 ## My skills
 - **Programming languages:** Python, JavaScript, Java, R, SQL
 - **Backend:** FastAPI, Django REST, Express.js, Flask
-- **Frontend:** React + Vite
+- **Frontend:** React + Vite, HTML, CSS
 - **Data:** Pandas, PySpark, dbt, Apache Airflow, Matplotlib, Seaborn
 - **AI:** Scikit-learn, PyTorch, MLlib
 - **Databases:** PostgreSQL, MySQL, Firestore
