@@ -10,7 +10,7 @@ I specialize in building intelligent applications—designing robust backend sys
 
 💡 **What drives me:** I love turning complex datasets into actionable insights and real-time interactive tools. I'm a self-motivated learner, constantly exploring new technologies to solve real-world problems.
 
-🏆 **Certifications:** Certified IBM Data Analyst & Google Cloud Technology Associate.
+🏆 **Certifications:** Certified IBM SkillsBuild Data Analytics & Google Cloud Computing Foundations.
 
 🌍 [Check out my Portfolio](https://portafolio-eight-inky-71.vercel.app/) | 📊 [Find me on Kaggle](https://www.kaggle.com/criser2013)
 
